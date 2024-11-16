@@ -9,7 +9,6 @@
 1. Matric Number & Name & Photo & Phone Number
 2. Other related info (if any)
    
-
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
 ## Abstract (in 300 words)
    1. Background
