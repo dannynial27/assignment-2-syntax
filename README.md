@@ -9,10 +9,10 @@
 1. Matric Number & Name & Photo & Phone Number
 2. Other related info (if any)
 
-|    | NAME                            | MATRIC NUMBER |
-| -- | ------------------------------- | ------------- |
-| 1. | MUHAMMAD DANIAL BIN MOHD FARIS  | 294692        |
-| 2. | SHARWIN A/L PARAMESWARAN        | 295026        |
+|    |                NAME             | MATRIC NUMBER |    PHONE NUMBER      | PICTURE |
+| -- | ------------------------------- | ------------- | -------------------- | ------- |
+| 1. | MUHAMMAD DANIAL BIN MOHD FARIS  |     294692    | (+60) 12 - 451 6452  |         |
+| 2. | SHARWIN A/L PARAMESWARAN        |     295026    | (+60) 12 - 647 1786  |         |
 
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
 ## Abstract (in 300 words)
