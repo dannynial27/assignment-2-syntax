@@ -12,7 +12,7 @@
 |    |                NAME             | MATRIC NUMBER |    PHONE NUMBER      | PICTURE |
 | -- | ------------------------------- | ------------- | -------------------- | ------- |
 | 1. | MUHAMMAD DANIAL BIN MOHD FARIS  |     294692    | (+60) 12 - 451 6452  |         |
-| 2. | SHARWIN A/L PARAMESWARAN        |     295026    | (+60) 12 - 647 1786  |         |
+| 2. | SHARWIN A/L PARAMESWARAN        |     295026    | (+60) 12 - 647 1786  | <img src="https://github.com/user-attachments/assets/8ef08b3b-4ea3-4b53-88fb-fcddd9eb182a" alt="SHARWIN A/L PARAMESWARAN (295026)" width="100px"> |
 
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
 ## Abstract (in 300 words)
