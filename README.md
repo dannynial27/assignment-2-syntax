@@ -8,7 +8,12 @@
 ## Your Info:
 1. Matric Number & Name & Photo & Phone Number
 2. Other related info (if any)
-   
+
+|    | NAME                            | MATRIC NUMBER |
+| -- | ------------------------------- | ------------- |
+| 1. | MUHAMMAD DANIAL BIN MOHD FARIS  | 294692        |
+| 2. | SHARWIN A/L PARAMESWARAN        | 295026        |
+
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
 ## Abstract (in 300 words)
    1. Background
