@@ -11,7 +11,7 @@
 
 |    |                          NAME                            |           MATRIC NUMBER          |              PHONE NUMBER | PICTURE           |
 | -- | -------------------------------------------------------- | -------------------------------- | --------------------------------------------- | ------- |
-| 1. | <div align="center">MUHAMMAD DANIAL BIN MOHD FARIS</div> | <div align="center">294692</div> | <div align="center">(+60) 12 - 451 6452</div> |         |
+| 1. | <div align="center">MUHAMMAD DANIAL BIN MOHD FARIS</div> | <div align="center">294692</div> | <div align="center">(+60) 12 - 451 6452</div> | <div align="center"><img src="INSERT IMAGE URL HERE" alt="MUHAMMAD DANIAL BIN MOHD FARIS (294692)" width="100px"></div> |
 | 2. | <div align="center">SHARWIN A/L PARAMESWARAN</div>       | <div align="center">295026</div> | <div align="center">(+60) 12 - 647 1786</div> | <div align="center"><img src="https://github.com/user-attachments/assets/8ef08b3b-4ea3-4b53-88fb-fcddd9eb182a" alt="SHARWIN A/L PARAMESWARAN (295026)" width="100px"></div> |
 
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
