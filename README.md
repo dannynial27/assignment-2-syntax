@@ -24,7 +24,7 @@
 
       In the current digital era, efficient real-time data processing across distributed systems is crucial. Traditional messaging systems often struggle with scalability and performance. Apache Kafka offers a solution with high throughput and low latency, but it requires proper configuration. According to research by Kreps et al. (2011), Kafka is designed to provide high throughput, low latency, and fault tolerance, making it ideal for various real-time data integration tasks source. This assignment aims to provide practical experience with Apache Kafka in KRaft mode, highlighting its role in real-time data integration and communication.
       
-   5. Main objective
+   3. Main objective
 
       * Develop a Java application: Create a Java application that integrates Apache Kafka in KRaft mode.
       * Enable message communication: Establish seamless message sending and receiving between two PCs using Kafka.
