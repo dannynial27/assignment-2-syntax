@@ -58,7 +58,9 @@
 ## Docker Image
 Producer (PC 1) :
 
-* `mvn clean package`
+[DOCKER IMAGE CONSUMER (PC2)](https://hub.docker.com/r/dannynial27/quote-producer/tags)
+
+   * `mvn clean package`
 
 docker push dannynial27/quote-producer
 
@@ -66,6 +68,7 @@ docker push dannynial27/quote-producer
 
 docker run --name quote-producer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 -e KAFKA_TOPIC=random-quotes dannynial27/quote-producer
 
+   * `docker pull dannynial27/quote-producer:latest`
 
 Consumer (PC 2) :
 
@@ -78,6 +81,8 @@ Consumer (PC 2) :
    * `docker push dannynial27/quote-consumer`
 
    * `docker run --name quote-consumer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 -e KAFKA_TOPIC=random-quotes -e CONSUMER_GROUP=quote-consumer-group dannynial27/quote-consumer`
+
+   * `docker pull dannynial27/quote-consumer:latest`
 
 
 ## References (Not less than 10)
