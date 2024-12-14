@@ -22,7 +22,7 @@
       
    3. Problem Statement (from article)
 
-      In the current digital era, efficient real-time data processing across distributed systems is crucial.
+      In the current digital era, efficient real-time data processing across distributed systems is crucial. Traditional messaging systems often struggle with scalability and performance.
    5. Main objective
    6. Methodology
    7. Result
