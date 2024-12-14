@@ -27,6 +27,7 @@
    5. Main objective
 
       * Develop a Java application: Create a Java application that integrates Apache Kafka in KRaft mode.
+      * Enable message communication: Establish seamless message sending and receiving between two PCs using Kafka.
    7. Methodology
    8. Result
    9. Conclusion
