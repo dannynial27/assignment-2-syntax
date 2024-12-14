@@ -61,7 +61,7 @@ Producer PC 1
 
 Consumer PC 2
 
-[DOCKER IMAGE CONSUMER (PC1)](https://hub.docker.com/r/dannynial27/quote-consumer/tags)
+[DOCKER IMAGE CONSUMER (PC2)](https://hub.docker.com/r/dannynial27/quote-consumer/tags)
 
 `mvn clean package`
 
