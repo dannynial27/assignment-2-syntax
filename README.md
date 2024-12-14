@@ -29,6 +29,7 @@
       * Develop a Java application: Create a Java application that integrates Apache Kafka in KRaft mode.
       * Enable message communication: Establish seamless message sending and receiving between two PCs using Kafka.
       * Configure Apache Kafka: Set up and configure Kafka for KRaft mode to ensure proper functioning without Zookeeper.
+      * Implement producer and consumer: Develop a Kafka producer to send API data messages and a Kafka consumer to receive and display these messages.
    7. Methodology
    8. Result
    9. Conclusion
