@@ -31,6 +31,7 @@
       * Configure Apache Kafka: Set up and configure Kafka for KRaft mode to ensure proper functioning without Zookeeper.
       * Implement producer and consumer: Develop a Kafka producer to send API data messages and a Kafka consumer to receive and display these messages.
       * Demonstrate real-time data processing: Showcase the application’s ability to handle real-time data streams across distributed systems.
+      * Document and present: Create comprehensive documentation, an architecture diagram, and a video presentation to demonstrate the system’s setup and functionality.
    7. Methodology
    8. Result
    9. Conclusion
