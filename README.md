@@ -47,7 +47,7 @@
       
    5. Result
 
-      The assignment successfully showcased the configuration and implementation of Apache Kafka in KRaft mode for real-time messaging between two PCs. Using the Quotes API from API Ninjas, the Java-based Producer on PC 1 fetched a random quote and sent it to a Kafka topic. The Consumer on PC 2 subscribed to the same Kafka topic, receiving and displaying the random quote accurately, thus validating seamless communication.
+      The assignment successfully showcased the configuration and implementation of Apache Kafka in KRaft mode for real-time messaging between two PCs. Using the Quotes API from API Ninjas, the Java-based Producer on PC 1 fetched a random quote and sent it to a Kafka topic. The Consumer on PC 2 subscribed to the same Kafka topic, receiving and displaying the random quote accurately, thus validating seamless communication. The Kafka servers on both PCs communicated effectively, highlighting Kafka's capability in handling real-time data streams.
    7. Conclusion
 
       In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs. Through the development of a Java-based Producer and Consumer, we successfully demonstrated efficient message communication, highlighting Kafka's capabilities in handling real-time data integration. The hands-on experience reinforced our knowledge of distributed system architecture and the critical role of Apache Kafka in modern data processing environments.
