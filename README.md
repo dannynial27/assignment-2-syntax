@@ -45,7 +45,7 @@
 
       Lastly, we compiled a list of at least 10 references used during the project and uploaded all source codes to the designated GitHub repository. We ensured that all images and resources were correctly included in the project to complete the submission.
       
-   9. Result
+   5. Result
    10. Conclusion
 
 ## Architecture Diagram
