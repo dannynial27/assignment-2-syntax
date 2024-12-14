@@ -44,6 +44,7 @@
       In terms of documentation and presentation, we documented the setup process, created an architecture diagram, and recorded the results in a comprehensive Readme.md file. We included screenshots of the results, and recorded a video presentation of the system implementation. This video was uploaded to YouTube and the link was included in the documentation.
 
       Lastly, we compiled a list of at least 10 references used during the project and uploaded all source codes to the designated GitHub repository. We ensured that all images and resources were correctly included in the project to complete the submission.
+      
    9. Result
    10. Conclusion
 
