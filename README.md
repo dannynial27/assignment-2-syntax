@@ -34,8 +34,10 @@
       * Document and present: Create comprehensive documentation, an architecture diagram, and a video presentation to demonstrate the system’s setup and functionality.
         
    7. Methodology
-   8. Result
-   9. Conclusion
+
+      To begin with, we set up Apache Kafka in KRaft mode by downloading the latest version from the official website and extracting it on both PCs.
+   9. Result
+   10. Conclusion
 
 ## Architecture Diagram
 ## References (Not less than 10)
