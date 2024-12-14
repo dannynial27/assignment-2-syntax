@@ -48,7 +48,7 @@
    5. Result
    6. Conclusion
 
-      
+      In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs.
 
 ## Architecture Diagram
 ## References (Not less than 10)
