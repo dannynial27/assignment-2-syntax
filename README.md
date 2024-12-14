@@ -35,7 +35,7 @@
         
    4. Methodology
 
-      To begin with, we set up Apache Kafka in KRaft mode by downloading the latest version from the official website and extracting it on both PCs. We then modified the server.properties file to enable KRaft mode, ensuring the cluster ID was set and removing the Zookeeper settings.
+      To begin with, we set up Apache Kafka in KRaft mode by downloading the latest version from the official website and extracting it on both PCs. We then modified the server.properties file to enable KRaft mode, ensuring the cluster ID was set and removing the Zookeeper settings. We also made sure that the Kafka ports were open and accessible between the two PCs.
    9. Result
    10. Conclusion
 
