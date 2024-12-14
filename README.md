@@ -18,7 +18,7 @@
 ## Abstract (in 300 words)
    1. Background
 
-      Apache Kafka is a powerful distributed messaging platform used for building real-time data pipelines.
+      Apache Kafka is a powerful distributed messaging platform used for building real-time data pipelines. Traditionally, Kafka relied on Apache ZooKeeper for managing clusters, but with the introduction of KRaft mode, Kafka now handles cluster management itself, improving scalability and simplifying architecture.
    3. Problem Statement (from article)
    4. Main objective
    5. Methodology
