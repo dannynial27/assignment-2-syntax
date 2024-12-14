@@ -46,7 +46,8 @@
       Lastly, we compiled a list of at least 10 references used during the project and uploaded all source codes to the designated GitHub repository. We ensured that all images and resources were correctly included in the project to complete the submission.
       
    5. Result
-   6. Conclusion
+      
+   7. Conclusion
 
       In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs. Through the development of a Java-based Producer and Consumer, we successfully demonstrated efficient message communication, highlighting Kafka's capabilities in handling real-time data integration. The hands-on experience reinforced our knowledge of distributed system architecture and the critical role of Apache Kafka in modern data processing environments.
 
