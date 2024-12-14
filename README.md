@@ -89,6 +89,9 @@ docker run --name quote-consumer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 
    13. Gilles Deleuze, & Félix Guattari. (2016). Kafka: Toward a Minor Literature. University Of Minnesota Press. https://complit.utoronto.ca/wp-content/uploads/COL1000-Week02-September23_GillesDeleuzeFelixGuattari.pdf
 
 ## Youtube Presentation
+
+![STIWK3014 REAL TIME PROGRAMMING ASSIGNMENT 2](https://youtu.be/TBBTstVR2hc)
+
 ## Result/Output (Screenshot of the output)
 
 Producer (PC1) :
