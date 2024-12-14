@@ -1,8 +1,8 @@
 ## Requirements for Assignment #2
-[Read the instruction](https://github.com/STIW3054-A232/class-activity-stiw3054/blob/main/Assignment-2.md)
+[Read the instruction](https://github.com/STIWK3014-A241/class-activity-stiwk3014-class-activity-team/blob/main/Assignment-2.md)
 
 ## Assessment Criteria
-[Check the rubrics](https://github.com/STIW3054-A232/class-activity-stiw3054/blob/main/Rubrics-Assignment-2.md)
+[Check the rubrics](https://github.com/STIWK3014-A241/class-activity-stiwk3014-class-activity-team/blob/main/Rubrics-Assignment-2.md)
 
 ## Your Info:
 1. Matric Number & Name & Photo & Phone Number
