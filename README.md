@@ -66,6 +66,7 @@
    8. Kreps, J., Corp, L., Narkhede, N., & Rao, J. (n.d.). Kafka: a Distributed Messaging System for Log Processing. https://pages.cs.wisc.edu/~akella/CS744/F17/838-CloudPapers/Kafka.pdf
    9. Helenius, S. (2024, August 19). Performance evaluation of Apache Kafka and RedPanda. https://aaltodoc.aalto.fi/items/3e46a100-f126-4880-91e4-4389a9c2efdb
    10. Kafka in action. (n.d.). Google Books. https://books.google.com.my/books?hl=en&lr=&id=jehZEAAAQBAJ&oi=fnd&pg=PA1&dq=apache+kafka+kraft&ots=A-TTmFQJLA&sig=kppICS8szmV9-ZeHtEaQe-MKRE8&redir_esc=y#v=onepage&q=apache%20kafka%20kraft&f=false
+   11. Povzner, A., Mahajan, P., Gustafson, J., Rao, J., Juma, I., Min, F., Sridharan, S., Bhatia, N., Attaluri, G., Chandra, A., Kozlovski, S., Sivaram, R., Bradstreet, L., Barrett, B., Shah, D., Jacot, D., Arthur, D., Dagostino, R., McCabe, C., . . . Gupta, K. (2023). Kora: A Cloud-Native event streaming platform for Kafka. Proceedings of the VLDB Endowment, 16(12), 3822–3834. https://doi.org/10.14778/3611540.3611567
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
