@@ -56,10 +56,10 @@
 ![architectural diagram](https://github.com/user-attachments/assets/29236558-df34-4774-9f09-850c71d261f9)
 
 ## Docker Image
-Producer PC 1 :
+Producer (PC 1) :
 
 
-Consumer PC 2 :
+Consumer (PC 2) :
 
 [DOCKER IMAGE CONSUMER (PC2)](https://hub.docker.com/r/dannynial27/quote-consumer/tags)
 
