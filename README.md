@@ -56,7 +56,7 @@
 ## Architecture Diagram
 ## References (Not less than 10)
 
-
+   1. Apache Kafka. (n.d.). Apache Kafka. https://kafka.apache.org/
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
