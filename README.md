@@ -22,7 +22,7 @@
       
    3. Problem Statement (from article)
 
-      In the current digital era, efficient real-time data processing across distributed systems is crucial. Traditional messaging systems often struggle with scalability and performance.
+      In the current digital era, efficient real-time data processing across distributed systems is crucial. Traditional messaging systems often struggle with scalability and performance. Apache Kafka offers a solution with high throughput and low latency, but it requires proper configuration.
    5. Main objective
    6. Methodology
    7. Result
