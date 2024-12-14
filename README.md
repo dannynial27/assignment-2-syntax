@@ -80,3 +80,6 @@ Producer (PC1) :
 
 
 Consumer (PC2) : 
+
+![image](https://github.com/user-attachments/assets/81c8d26f-e662-4a79-9bd8-44866d917368)
+
