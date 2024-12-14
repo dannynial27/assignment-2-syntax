@@ -48,7 +48,7 @@
    5. Result
    6. Conclusion
 
-      In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs.
+      In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs. Through the development of a Java-based Producer and Consumer, we successfully demonstrated efficient message communication, highlighting Kafka's capabilities in handling real-time data integration.
 
 ## Architecture Diagram
 ## References (Not less than 10)
