@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Gau5_GFM)
+![architectural diagram](https://github.com/user-attachments/assets/b03105a0-02ec-4497-b8e4-b32ab78b86f2)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Gau5_GFM)
 ## Requirements for Assignment #2
 [Read the instruction](https://github.com/STIW3054-A232/class-activity-stiw3054/blob/main/Assignment-2.md)
 
@@ -54,6 +54,8 @@
       In conclusion, this assignment provided a practical understanding of configuring and using Apache Kafka in KRaft mode for real-time messaging between two PCs. Through the development of a Java-based Producer and Consumer, we successfully demonstrated efficient message communication, highlighting Kafka's capabilities in handling real-time data integration. The hands-on experience reinforced our knowledge of distributed system architecture and the critical role of Apache Kafka in modern data processing environments.
 
 ## Architecture Diagram
+![architectural diagram](https://github.com/user-attachments/assets/29236558-df34-4774-9f09-850c71d261f9)
+
 ## References (Not less than 10)
 
    1. Apache Kafka. (n.d.). Apache Kafka. https://kafka.apache.org/
