@@ -90,7 +90,7 @@ docker run --name quote-consumer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 
 
 ## Youtube Presentation
 
-![STIWK3014 REAL TIME PROGRAMMING ASSIGNMENT 2](https://youtu.be/TBBTstVR2hc)
+[STIWK3014 REAL TIME PROGRAMMING ASSIGNMENT 2](https://youtu.be/TBBTstVR2hc)
 
 ## Result/Output (Screenshot of the output)
 
