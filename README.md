@@ -61,15 +61,15 @@ Producer PC 1
 
 Consumer PC 2
 
-https://hub.docker.com/r/dannynial27/quote-consumer/tags
+[DOCKER IMAGE CONSUMER (PC1)](https://hub.docker.com/r/dannynial27/quote-consumer/tags)
 
-mvn clean package
+`mvn clean package`
 
-docker build -t dannynial27/quote-consumer .
+`docker build -t dannynial27/quote-consumer .`
 
-docker push dannynial27/quote-consumer
+`docker push dannynial27/quote-consumer`
 
-docker run --name quote-consumer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 -e KAFKA_TOPIC=random-quotes -e CONSUMER_GROUP=quote-consumer-group dannynial27/quote-consumer
+`docker run --name quote-consumer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 -e KAFKA_TOPIC=random-quotes -e CONSUMER_GROUP=quote-consumer-group dannynial27/quote-consumer`
 
 
 ## References (Not less than 10)
