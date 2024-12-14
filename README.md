@@ -21,7 +21,7 @@
       
    2. Problem Statement (from article)
 
-      In the current digital era, efficient real-time data processing across distributed systems is crucial. Traditional messaging systems often struggle with scalability and performance. Apache Kafka offers a solution with high throughput and low latency, but it requires proper configuration. According to research by Kreps et al. (2011), Kafka is designed to provide high throughput, low latency, and fault tolerance, making it ideal for various real-time data integration tasks source. This assignment aims to provide practical experience with Apache Kafka in KRaft mode, highlighting its role in real-time data integration and communication.
+      Traditional messaging systems often struggle with real-time data integration due to scalability and latency issues. Apache Kafka addresses these challenges with high throughput, low latency, and fault tolerance, making it ideal for real-time applications (Kreps et al., 2011). This assignment explores Kafka in KRaft mode to showcase its practical role in solving such challenges.
       
    3. Main objective
 
