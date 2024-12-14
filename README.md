@@ -68,6 +68,8 @@
    10. Kafka in action. (n.d.). Google Books. https://books.google.com.my/books?hl=en&lr=&id=jehZEAAAQBAJ&oi=fnd&pg=PA1&dq=apache+kafka+kraft&ots=A-TTmFQJLA&sig=kppICS8szmV9-ZeHtEaQe-MKRE8&redir_esc=y#v=onepage&q=apache%20kafka%20kraft&f=false
    11. Povzner, A., Mahajan, P., Gustafson, J., Rao, J., Juma, I., Min, F., Sridharan, S., Bhatia, N., Attaluri, G., Chandra, A., Kozlovski, S., Sivaram, R., Bradstreet, L., Barrett, B., Shah, D., Jacot, D., Arthur, D., Dagostino, R., McCabe, C., . . . Gupta, K. (2023). Kora: A Cloud-Native event streaming platform for Kafka. Proceedings of the VLDB Endowment, 16(12), 3822–3834. https://doi.org/10.14778/3611540.3611567
    12. Jones, W. (n.d.). Standardizing Data For Kafka Consumers. Retrieved December 14, 2024, from https://iamwpj.com/papers/Standardizing%20Data%20For%20Kafka%20Consumers.pdf
+   13. Gilles Deleuze, & Félix Guattari. (2016). Kafka: Toward a Minor Literature. University Of Minnesota Press.
+
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
