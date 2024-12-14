@@ -63,6 +63,7 @@
    5. Instaclustr. (2022, November 22). Apache Kafka® KRaft Abandons the Zoo(Keeper): Part 1 — Partitions and data performance. Medium. https://instaclustr.medium.com/apache-kafka-kraft-abandons-the-zoo-keeper-part-1-partitions-and-data-performance-5b0af26184ca
    6. Apache Kafka. (n.d.-b). Apache Kafka. https://kafka.apache.org/20/documentation.html
    7. The basic Kafka. (n.d.). Google Books. https://books.google.com.my/books?hl=en&lr=&id=q71jhLcPd8gC&oi=fnd&pg=PR9&dq=kafka&ots=i2QgQT5pmZ&sig=o0Pfj5VCL8w3Zje0D5wIIBZ8Cs0&redir_esc=y#v=onepage&q=kafka&f=false
+   8. Kreps, J., Corp, L., Narkhede, N., & Rao, J. (n.d.). Kafka: a Distributed Messaging System for Log Processing. https://pages.cs.wisc.edu/~akella/CS744/F17/838-CloudPapers/Kafka.pdf
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
