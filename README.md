@@ -39,7 +39,7 @@
 
       Next, we developed the Java application. On PC 1, we set up a new project in IntelliJ IDEA, included the Kafka client library via Maven dependency, and created a Producer class. This class was designed to send messages containing API data to a predefined Kafka topic. Simultaneously, on PC 2, we set up another Java project and created a Consumer class. This class subscribes to the same Kafka topic to read and display messages, thus validating successful communication between the two systems.
 
-      For testing and validation, we ensured that the Kafka servers on both PCs could communicate effectively.
+      For testing and validation, we ensured that the Kafka servers on both PCs could communicate effectively. We tested the Producer on PC 1 by sending API data messages and validated the Consumer on PC 2 by receiving and displaying these messages.
    9. Result
    10. Conclusion
 
