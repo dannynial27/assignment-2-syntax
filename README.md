@@ -19,6 +19,7 @@
    1. Background
 
       Apache Kafka is a powerful distributed messaging platform used for building real-time data pipelines. Traditionally, Kafka relied on Apache ZooKeeper for managing clusters, but with the introduction of KRaft mode, Kafka now handles cluster management itself, improving scalability and simplifying architecture. This assignment focuses on setting up Kafka in KRaft mode to create a producer-consumer application, where a Java-based producer sends data from a quotes API to a consumer over a network. By working with the latest version of Kafka (3.9.0) and KRaft mode, the project provides practical experience in real-time messaging and distributed system architecture.
+      
    3. Problem Statement (from article) 
    4. Main objective
    5. Methodology
