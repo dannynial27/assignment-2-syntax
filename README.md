@@ -33,7 +33,7 @@
       * Demonstrate real-time data processing: Showcase the application’s ability to handle real-time data streams across distributed systems.
       * Document and present: Create comprehensive documentation, an architecture diagram, and a video presentation to demonstrate the system’s setup and functionality.
         
-   7. Methodology
+   4. Methodology
 
       To begin with, we set up Apache Kafka in KRaft mode by downloading the latest version from the official website and extracting it on both PCs. We then modified the server.properties file to enable KRaft mode, ensuring the cluster ID was set and removing the Zookeeper settings.
    9. Result
