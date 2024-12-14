@@ -42,6 +42,7 @@
       For testing and validation, we ensured that the Kafka servers on both PCs could communicate effectively. We tested the Producer on PC 1 by sending API data messages and validated the Consumer on PC 2 by receiving and displaying these messages.
 
       In terms of documentation and presentation, we documented the setup process, created an architecture diagram, and recorded the results in a comprehensive Readme.md file. We included screenshots of the results, and recorded a video presentation of the system implementation. This video was uploaded to YouTube and the link was included in the documentation.
+      
    9. Result
    10. Conclusion
 
