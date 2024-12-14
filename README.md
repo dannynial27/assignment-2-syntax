@@ -74,3 +74,9 @@
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
+Producer (PC1) :
+
+![image](https://github.com/user-attachments/assets/dacd9fb7-0326-4b44-bc9d-b38122d27831)
+
+
+Consumer (PC2) : 
