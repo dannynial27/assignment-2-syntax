@@ -58,6 +58,14 @@
 ## Docker Image
 Producer (PC 1) :
 
+* `mvn clean package`
+
+docker push dannynial27/quote-producer
+
+docker push dannynial27/quote-producer
+
+docker run --name quote-producer -e KAFKA_BOOTSTRAP_SERVERS=192.168.214.96:9092 -e KAFKA_TOPIC=random-quotes dannynial27/quote-producer
+
 
 Consumer (PC 2) :
 
