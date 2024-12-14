@@ -57,6 +57,7 @@
 ## References (Not less than 10)
 
    1. Apache Kafka. (n.d.). Apache Kafka. https://kafka.apache.org/
+   2. KRaft - Apache Kafka without ZooKeeper. (n.d.). Confluent. https://developer.confluent.io/learn/kraft/
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
