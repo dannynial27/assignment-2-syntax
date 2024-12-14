@@ -17,11 +17,13 @@
 ## Title: Real-Time Messaging with Apache Kafka in KRaft Mode
 ## Abstract (in 300 words)
    1. Background
-   2. Problem Statement (from article)
-   3. Main objective
-   4. Methodology
-   5. Result
-   6. Conclusion
+
+      Apache Kafka is a powerful distributed messaging platform used for building real-time data pipelines.
+   3. Problem Statement (from article)
+   4. Main objective
+   5. Methodology
+   6. Result
+   7. Conclusion
 
 ## Architecture Diagram
 ## References (Not less than 10)
