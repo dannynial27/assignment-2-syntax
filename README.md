@@ -59,6 +59,7 @@
    1. Apache Kafka. (n.d.). Apache Kafka. https://kafka.apache.org/
    2. KRaft - Apache Kafka without ZooKeeper. (n.d.). Confluent. https://developer.confluent.io/learn/kraft/
    3. KRAFT Overview | Confluent Documentation. (n.d.). https://docs.confluent.io/platform/current/kafka-metadata/kraft.html
+   4. Getting Started with the KRaft Protocol | Confluent What is KRaft, and how to get started. (n.d.). Confluent. https://www.confluent.io/blog/what-is-kraft-and-how-do-you-use-it/
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
