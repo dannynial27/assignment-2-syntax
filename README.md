@@ -61,6 +61,7 @@
    3. KRAFT Overview | Confluent Documentation. (n.d.). https://docs.confluent.io/platform/current/kafka-metadata/kraft.html
    4. Getting Started with the KRaft Protocol | Confluent What is KRaft, and how to get started. (n.d.). Confluent. https://www.confluent.io/blog/what-is-kraft-and-how-do-you-use-it/
    5. Instaclustr. (2022, November 22). Apache Kafka® KRaft Abandons the Zoo(Keeper): Part 1 — Partitions and data performance. Medium. https://instaclustr.medium.com/apache-kafka-kraft-abandons-the-zoo-keeper-part-1-partitions-and-data-performance-5b0af26184ca
+   6. Apache Kafka. (n.d.-b). Apache Kafka. https://kafka.apache.org/20/documentation.html
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
