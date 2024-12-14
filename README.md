@@ -64,6 +64,7 @@
    6. Apache Kafka. (n.d.-b). Apache Kafka. https://kafka.apache.org/20/documentation.html
    7. The basic Kafka. (n.d.). Google Books. https://books.google.com.my/books?hl=en&lr=&id=q71jhLcPd8gC&oi=fnd&pg=PR9&dq=kafka&ots=i2QgQT5pmZ&sig=o0Pfj5VCL8w3Zje0D5wIIBZ8Cs0&redir_esc=y#v=onepage&q=kafka&f=false
    8. Kreps, J., Corp, L., Narkhede, N., & Rao, J. (n.d.). Kafka: a Distributed Messaging System for Log Processing. https://pages.cs.wisc.edu/~akella/CS744/F17/838-CloudPapers/Kafka.pdf
+   9. Helenius, S. (2024, August 19). Performance evaluation of Apache Kafka and RedPanda. https://aaltodoc.aalto.fi/items/3e46a100-f126-4880-91e4-4389a9c2efdb
 ## Youtube Presentation
 ## Result/Output (Screenshot of the output)
 
